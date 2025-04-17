@@ -172,6 +172,5 @@ xmlns:xsl = "http://www.w3.org/1999/XSL/Transform">
             <xsl:text>)</xsl:text><br/>
         </xsl:for-each>
     </xsl:for-each>
+</xsl:template>
 </xsl:stylesheet>
-
-<!--  -->
